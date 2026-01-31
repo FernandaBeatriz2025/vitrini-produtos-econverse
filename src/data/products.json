@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "products": [
+    {
+      "productName": "Iphone 11 PRO MAX BRANCO 1",
+      "descriptionShort": "Smartphone Apple com tela grande, câmeras avançadas e alto desempenho.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 15000
+    },
+    {
+      "productName": "IPHONE 13 MINI 1",
+      "descriptionShort": "Modelo compacto, poderoso e ideal para o dia a dia.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 9000
+    },
+    {
+      "productName": "Iphone 11 PRO MAX BRANCO 2",
+      "descriptionShort": "Design premium com ótima performance e fluidez.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 14990
+    },
+    {
+      "productName": "IPHONE 13 MINI 2",
+      "descriptionShort": "Excelente custo-benefício em um formato compacto.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 12000
+    },
+    {
+      "productName": "Iphone 11 PRO MAX BRANCO 3",
+      "descriptionShort": "Ideal para quem busca desempenho e boa câmera.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 4550
+    },
+    {
+      "productName": "IPHONE 13 MINI 3",
+      "descriptionShort": "Compacto por fora e potente por dentro.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 38000
+    },
+    {
+      "productName": "Iphone 11 PRO MAX BRANCO 4",
+      "descriptionShort": "Tela grande e excelente desempenho multitarefa.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 42000
+    },
+    {
+      "productName": "IPHONE 13 MINI 4",
+      "descriptionShort": "Perfeito para quem prefere celulares menores.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 520
+    },
+    {
+      "productName": "Iphone 11 PRO MAX BRANCO 5",
+      "descriptionShort": "Alto desempenho com excelente qualidade de construção.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 149990
+    },
+    {
+      "productName": "IPHONE 13 MINI 5",
+      "descriptionShort": "Compacto, rápido e confiável para uso diário.",
+      "photo": "https://app.econverse.com.br/teste-front-end/junior/tecnologia/fotos-produtos/foto-iphone.png",
+      "price": 100000
+    }
+  ]
+}
